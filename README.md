@@ -1,2 +1,3 @@
-# examples
-Examples of data
+# `db-examples`
+
+Examples of data analysis
