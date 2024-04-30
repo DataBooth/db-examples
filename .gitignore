@@ -1,5 +1,7 @@
 # Extras
 
+.vscode/
+nsw_open_data.toml
 *.png
 
 # Byte-compiled / optimized / DLL files
